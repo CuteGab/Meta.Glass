@@ -3,13 +3,17 @@
 }
 
 
+.btn1{
+    background: transparent;
+    font-size: 30px;
+}
 
 h1{
     color: var(--text-color);
 }
 body{
     background: url(Glass.jpg);
-    background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
 }
